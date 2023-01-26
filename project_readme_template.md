@@ -9,8 +9,7 @@
     1.   [Features lists.](#features-lists)
 3.  [Technologies](#technologies)
 
-
-![Project image](<IMAGE_LINK>)
+![Project image](http://via.placeholder.com/640x360)
 <!--Image of project e.g. a dashboard screenshot, logo etc--->
 
 ## Project Description.
@@ -23,19 +22,6 @@
 ## Technologies.
 <!--List technologies uses, why you picked them and alternatives--->
 1. <!--Spring Framework, widely adopted by enterprise and businesses and Well Documented. Alterbatives: Django, Laravel--->
-
-## Challenge statement.
-### Problem Description.
-<!--Describe the problem(s) the project aim to solve--->
-
-### What the project will not solve.
-<!--What problem(s) the project will not solve--->
-
-### Targeted users.
-<!--The audience the project is directed towards--->
-
-### Targeted locale.
-<!--The locale the project is directed towards--->
 
 ## How to install and run the Project.
 <!--* Steps how to install and run project--->
