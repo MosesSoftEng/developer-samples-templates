@@ -9,7 +9,7 @@
     1.   [Features lists.](#features-lists)
 3.  [Technologies](#technologies)
 
-![Project image](http://via.placeholder.com/640x360)
+![Project image](https://via.placeholder.com/640x360)
 <!--Image of project e.g. a dashboard screenshot, logo etc--->
 
 ## Project Description.
