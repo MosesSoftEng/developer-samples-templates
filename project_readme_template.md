@@ -1,70 +1,69 @@
 
 # Project Title.
-<!--Brief, should give a general idea what the project is about--->
-
-![Project image](<IMAGE_LINK>)
-<!--Image of project e.g. a dashboard, logo--->
-
-## Project Description.
-<!--Image of project e.g. a dashboard screenshot, logo etc--->
-
-### Features lists.
-1. Specify repository and file to add commits.
-2. Specify information to commit to file.
-3. Set interval of commits.
-
-## Technologies.
-1. AWS Cloud, popular, well documented and affordable. Alternatives: Azure, Google Cloud.
-2. Serverless Framework, support micorservices, Infrastructure as Code IaC, and popular. Alternatives: CloudFormation
-3. Node.js with TypeScript, versatile, and strongly typed. Alternatives: Python, Go.
-
-### :computer: More Technologies used.
-CloudWatch Events, AWS Lambda and AWS GateWay, Github API.
-
-### :office: Development environment, Tools and IDEs.
-Ubuntu 20.04, Visual Studio Code, Github.
+<!--* Brief, should give a general idea what the project is about--->
 
 ## Table of Contents.
+<!--Image of project e.g. a dashboard screenshot, logo etc--->
+1.  [Project Title](#project-title)
+2.  [Project Description](#project-description)
+    1.   [Features lists.](#features-lists)
+3.  [Technologies](#technologies)
 
-## Project Installation.
-1. Clone the project locally.
-2. Set up an AWS acoount. and create a user with programmatic access note access credentials.
-3. Create a Github access token.
-4. Edit project configuration in src/config/config.ts for repository details and schedule interval.
-4. Install node locally and AWS CLI.
-5. Install Serverless Framework.
 
-```bash
-# Install serverless framework using node.js
-npm install  -g serverless
+![Project image](<IMAGE_LINK>)
+<!--Image of project e.g. a dashboard screenshot, logo etc--->
 
-# Create a serverles project.
-sls create --template aws-nodejs-typescript --path .
+## Project Description.
+<!--* Explain what your project does--->
 
-# Configure serveless to use credentials created in step 1.
-sls config credentials --provider aws --key <ACCESS_KEY> --secret <ACCESS_SECREAT> --profile <PROFILE_NAME>
+### Features lists.
+<!--List project features--->
+1. <!--Example: Files backup in the cloud--->
 
-# Export Github access token.
-export GITHUB_TOKEN="<ACCESS_TOKEN>"
+## Technologies.
+<!--List technologies uses, why you picked them and alternatives--->
+1. <!--Spring Framework, widely adopted by enterprise and businesses and Well Documented. Alterbatives: Django, Laravel--->
 
-# Deploy the application.
-sls deploy
-```
+## Challenge statement.
+### Problem Description.
+<!--Describe the problem(s) the project aim to solve--->
 
-## How to use the project.
-The project will run automatically as scheduled. If you want to run the app, make an API call to the endpoints provide after deploying the project.
+### What the project will not solve.
+<!--What problem(s) the project will not solve--->
+
+### Targeted users.
+<!--The audience the project is directed towards--->
+
+### Targeted locale.
+<!--The locale the project is directed towards--->
+
+## How to install and run the Project.
+<!--* Steps how to install and run project--->
+1. <!--Example: Clone project repo.--->
+
+## How to use project.
+<!--Steps how use project--->
+1. <!--Example: run `npm start` in ternimal.--->
 
 ## Credits.
-1. [Serverless CLI Reference for AWS](https://www.serverless.com/framework/docs/providers/aws/cli-reference)
+<!--List collaborators/team members, Tutorials--->
+1. <!--Example: [Moses Mwangi - Software Engineeer](https://github.com/MosesSoftEng)--->
 
 ## License.
-[See license file](LICENSE.txt)
+<!--* Create a license https://choosealicense.com/-->
+[See license file ](LICENSE)
 
-# :sunglasses: Author.
-This project was done by [SE. Moses Mwangi](https://github.com/MosesSoftEng). Feel free to get intouch with me;
+## How to Contribute to the Project.
+<!--Steps and guidelines on how to contribute to project-->
 
-:iphone: WhatsApp [+254115227963](https://wa.me/254115227963)
+## Tests.
+<!--Provide code to run tests for the project-->
 
-:email: Email [moses.soft.eng@gmail.com](mailto:moses.soft.eng@gmail.com)
 
-:iphone: LinkedIn [MosesSoftEng](https://www.linkedin.com/in/mosessofteng/)
+<!--
+    More tools.
+    Readme Generator https://www.makeareadme.com/
+    Contributor Covenant https://www.contributor-covenant.org/
+
+    Marked with * are required sections
+--->
